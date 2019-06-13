@@ -1,0 +1,5 @@
+Python 3.7.1
+
+Some knowledge of Warcraft 3 - Since this simple app is designed for Warcraft 3 players.
+
+Read the notebook first.
